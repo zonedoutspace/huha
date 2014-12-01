@@ -1,13 +1,5 @@
 <?php
-/*********************************
- * model.php
- *
- * CSCI S-75
- * Project 1
- * Chris Gerber
- *
- * Model for users and portfolios
- *********************************/
+
 require_once ("../includes/constants.php");
 /*
  * login_user() - Verify account credentials and create session
