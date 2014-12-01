@@ -1,14 +1,5 @@
 <?php
-/****************************************************
- * helper.php
- *
- * CSCI S-75
- * Project 1
- * Chris Gerber
- *
- * Contains a few helpful functions.
- * This should be required by all controllers.
- ****************************************************/
+
 require_once("constants.php");
 /*
  * render() - Renders the template
