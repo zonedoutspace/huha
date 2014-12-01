@@ -1,13 +1,4 @@
 <?php
-/*******************
- * login.php
- *
- * CSCI S-75
- * Project 1
- * Chris Gerber
- *
- * Login controller
- *******************/
 
 require_once('../model/model.php');
 require_once('../includes/helper.php');
