@@ -1,13 +1,4 @@
 <?php
-/*********************
- * index.php
- *
- * CSCI S-75
- * Project 1
- * Chris Gerber
- *
- * Dispatcher for MVC
- *********************/
 
 session_start();
 
