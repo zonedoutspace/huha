@@ -2,8 +2,8 @@ huha
 ====
 [see here](http://www.huha.tk)
 
-This is online stock trading game developed using Yahoo finance API for real time stock quotes.
-In game, you can buy and sell shares from NASDAQ for no good reason.
+This is online stock trading framework developed using Yahoo finance API for real time stock quotes.
+In this, you can buy and sell shares from NASDAQ.
 
 Technologies used
 ==================
