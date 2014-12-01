@@ -1,13 +1,4 @@
 <?php
-/*******************
- * quote.php
- *
- * CSCI S-75
- * Project 1
- * Chris Gerber
- *
- * Quote controller
- *******************/
 
 require_once('../model/model.php');
 require_once('../includes/helper.php');
